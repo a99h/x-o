@@ -1,0 +1,28 @@
+/* *{border: 1px solid red;} */
+#mainBlock{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 20px auto;
+}
+.gameBlock{
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: aqua;
+    float: left;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#motionHint{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
